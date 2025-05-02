@@ -1,5 +1,5 @@
 # Cont & Kukanov Order Router Backtesting
-##name:Leqi Chen
+## name:Leqi Chen
 This project implements a backtesting framework for a Smart Order Router based on the static cost model introduced by Cont & Kukanov. The router determines how to optimally allocate a 5,000-share buy order across multiple trading venues based on best ask prices and quantities to minimize total cost.
 
 ## Required Libraries
